@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **senior software developer** that spends most of his time developing in *Java* but is becoming fond of *Kotlin*.
