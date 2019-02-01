@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. My daughter Reagan
+2. My wife Catherine
+3. Kotlin (maybe)
